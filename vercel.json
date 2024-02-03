@@ -42,6 +42,7 @@
         "DB_PORT": "5432",
         "DB_DATABASE": "verceldb",
         "DB_USERNAME": "default",
-        "DB_PASSWORD": "endpoint=ep-rapid-cell-a295xref-pooler;TvEDGJ3UeP0N"
+        "DB_PASSWORD": "endpoint=ep-rapid-cell-a295xref-pooler;TvEDGJ3UeP0N",
+        "APP_KEY": "base64:eQEIkvwD43vQd/nbx/W81QPLObTmGi4ni4d1dFgnw+w="
     }
 }
