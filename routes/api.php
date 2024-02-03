@@ -23,5 +23,5 @@ Route::get('/hello', function (Request $request) {
     return $users;
 });
 Route::get('/env', function (Request $request) {
-    return env('DB_HOST');
+    return env('APP_NAME');
 });
