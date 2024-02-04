@@ -23,7 +23,7 @@
     "env": {
         "APP_NAME": "Vercel Laravel",
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://laravel-base-app-git-feature-laravel-breez-6f673b-jeremy93-2008.vercel.app",
         "ASSET_URL": "https://laravel-base-app-git-feature-laravel-breez-6f673b-jeremy93-2008.vercel.app",
         "SESSION_SECURE_COOKIE": "true",
