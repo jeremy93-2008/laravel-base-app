@@ -6,7 +6,7 @@
  */
 $filename = $_SERVER['SCRIPT_NAME'] ?? '/index.php';
 
-if ($filename === '/index.php') {
+if ($filename === '/index.php' || str_contains($filename, '/livewire')) {
     require __DIR__ . '/../public/index.php';
 } else {
     if (str_contains($filename, '.css'))
